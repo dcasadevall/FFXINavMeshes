@@ -4,7 +4,7 @@
 These NavMeshes were built using FFXINAV.dll. 
 ffxinav.dll is a custom wrapper i am working on to work with FFXI, this dll uses Recast Detour.
 
-I have included the imports.cs and ffxinavtools.cs files to use FFXINAV.dll in c#
+I have included the imports.cs and FFXINAV.dll for use in c#
 
 ### Special Thanks!
 * Vulture for his Map Collision extraction tool
